@@ -1,0 +1,227 @@
+'file:videos/noboss1.mpeg'
+'file:videos/noboss2.mpeg'
+'file:videos/roll.mpg'	
+'file:videos/sage_beamingpoi.mpg'
+'file:videos/faceburn.mpg'
+'file:videos/aliensong.mpeg'
+'file:videos/babythrowup.mpeg'
+Student
+Jul 21, 2008 11:14:49 PM jalgo.StudentTest calculatePValues
+INFO: 
+Two-sided t.test at significant level= 0.1
+Color component RED: 
+Video 'file:videos/noboss1.mpeg'
+pvalue= 1.0	RED...Same videos.
+
+Video 'file:videos/noboss2.mpeg'
+pvalue= 0.9997979898986737	RED...Same videos.
+
+Video 'file:videos/roll.mpg'
+pvalue= 0.11692701985934156	RED...Same videos.
+
+Video 'file:videos/sage_beamingpoi.mpg'
+pvalue= 0.6056489305811551	RED...Same videos.
+
+Video 'file:videos/faceburn.mpg'
+pvalue= 0.2398231813532435	RED...Same videos.
+
+Video 'file:videos/aliensong.mpeg'
+pvalue= 0.7669687741972311	RED...Same videos.
+
+Video 'file:videos/babythrowup.mpeg'
+pvalue= 0.8524822705232851	RED...Same videos.
+
+Jul 21, 2008 11:14:49 PM jalgo.StudentTest calculatePValues
+INFO: 
+Two-sided t.test at significant level= 0.1
+Color component GREEN: 
+Video 'file:videos/noboss1.mpeg'
+pvalue= 1.0	GREEN...Same videos.
+
+Video 'file:videos/noboss2.mpeg'
+pvalue= 0.9828072638874616	GREEN...Same videos.
+
+Video 'file:videos/roll.mpg'
+pvalue= 0.11700283852910154	GREEN...Same videos.
+
+Video 'file:videos/sage_beamingpoi.mpg'
+pvalue= 0.24774094122228732	GREEN...Same videos.
+
+Video 'file:videos/faceburn.mpg'
+pvalue= 0.1860484406957333	GREEN...Same videos.
+
+Video 'file:videos/aliensong.mpeg'
+pvalue= 0.7017310509277723	GREEN...Same videos.
+
+Video 'file:videos/babythrowup.mpeg'
+pvalue= 0.7521813594572071	GREEN...Same videos.
+
+Jul 21, 2008 11:14:49 PM jalgo.StudentTest calculatePValues
+INFO: 
+Two-sided t.test at significant level= 0.1
+Color component BLUE: 
+Video 'file:videos/noboss1.mpeg'
+pvalue= 1.0	BLUE...Same videos.
+
+Video 'file:videos/noboss2.mpeg'
+pvalue= 0.9836841927081663	BLUE...Same videos.
+
+Video 'file:videos/roll.mpg'
+pvalue= 0.14340538487131352	BLUE...Same videos.
+
+Video 'file:videos/sage_beamingpoi.mpg'
+pvalue= 0.1841719472151575	BLUE...Same videos.
+
+Video 'file:videos/faceburn.mpg'
+pvalue= 0.2170897620700162	BLUE...Same videos.
+
+Video 'file:videos/aliensong.mpeg'
+pvalue= 0.37870097404851544	BLUE...Same videos.
+
+Video 'file:videos/babythrowup.mpeg'
+pvalue= 0.7128305987171758	BLUE...Same videos.
+
+Jul 21, 2008 11:14:49 PM jalgo.StudentTest main
+INFO: Test video  'file:videos/noboss1.mpeg'
+Two-sided t.test at significant level= 0.1
+Color component RED: 
+Video 'file:videos/noboss1.mpeg'
+pvalue= 1.0	RED...Same videos.
+
+Video 'file:videos/noboss2.mpeg'
+pvalue= 0.9997979898986737	RED...Same videos.
+
+Video 'file:videos/roll.mpg'
+pvalue= 0.11692701985934156	RED...Same videos.
+
+Video 'file:videos/sage_beamingpoi.mpg'
+pvalue= 0.6056489305811551	RED...Same videos.
+
+Video 'file:videos/faceburn.mpg'
+pvalue= 0.2398231813532435	RED...Same videos.
+
+Video 'file:videos/aliensong.mpeg'
+pvalue= 0.7669687741972311	RED...Same videos.
+
+Video 'file:videos/babythrowup.mpeg'
+pvalue= 0.8524822705232851	RED...Same videos.
+
+Test video  'file:videos/noboss1.mpeg'
+Two-sided t.test at significant level= 0.1
+Color component GREEN: 
+Video 'file:videos/noboss1.mpeg'
+pvalue= 1.0	GREEN...Same videos.
+
+Video 'file:videos/noboss2.mpeg'
+pvalue= 0.9828072638874616	GREEN...Same videos.
+
+Video 'file:videos/roll.mpg'
+pvalue= 0.11700283852910154	GREEN...Same videos.
+
+Video 'file:videos/sage_beamingpoi.mpg'
+pvalue= 0.24774094122228732	GREEN...Same videos.
+
+Video 'file:videos/faceburn.mpg'
+pvalue= 0.1860484406957333	GREEN...Same videos.
+
+Video 'file:videos/aliensong.mpeg'
+pvalue= 0.7017310509277723	GREEN...Same videos.
+
+Video 'file:videos/babythrowup.mpeg'
+pvalue= 0.7521813594572071	GREEN...Same videos.
+
+Test video  'file:videos/noboss1.mpeg'
+Two-sided t.test at significant level= 0.1
+Color component BLUE: 
+Video 'file:videos/noboss1.mpeg'
+pvalue= 1.0	BLUE...Same videos.
+
+Video 'file:videos/noboss2.mpeg'
+pvalue= 0.9836841927081663	BLUE...Same videos.
+
+Video 'file:videos/roll.mpg'
+pvalue= 0.14340538487131352	BLUE...Same videos.
+
+Video 'file:videos/sage_beamingpoi.mpg'
+pvalue= 0.1841719472151575	BLUE...Same videos.
+
+Video 'file:videos/faceburn.mpg'
+pvalue= 0.2170897620700162	BLUE...Same videos.
+
+Video 'file:videos/aliensong.mpeg'
+pvalue= 0.37870097404851544	BLUE...Same videos.
+
+Video 'file:videos/babythrowup.mpeg'
+pvalue= 0.7128305987171758	BLUE...Same videos.
+
+==========================
+RankTest
+Jul 21, 2008 11:20:03 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.9671921021458814; zscore -0.041130195864896885
+Jul 21, 2008 11:20:03 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.8526733956783372; zscore -0.18570845736528097
+Jul 21, 2008 11:20:03 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.8921973786244001; zscore -0.1355242674229961
+Jul 21, 2008 11:20:03 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.8149070704868265; zscore -0.2341003548096212
+Jul 21, 2008 11:20:03 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.8648723109435095; zscore -0.17017525571647663
+Jul 21, 2008 11:20:03 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.9710021511086769; zscore -0.03635141832981145
+Jul 21, 2008 11:20:03 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.9843443665933824; zscore -0.019622685889630696
+Jul 21, 2008 11:20:03 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.8386415673719848; zscore -0.20363138234466654
+Jul 21, 2008 11:20:03 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.9153838769001882; zscore -0.10625015662333208
+Jul 21, 2008 11:20:03 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.815370899299453; zscore -0.2335029239769759
+Jul 21, 2008 11:20:03 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.9021243450061375; zscore -0.12297821993742704
+Jul 21, 2008 11:20:03 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.9624299374989266; zscore -0.04710450419135006
+Jul 21, 2008 11:20:03 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.9690973051987104; zscore -0.03874047253430692
+Jul 21, 2008 11:20:03 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.869572955321171; zscore -0.16420094739001478
+Jul 21, 2008 11:20:03 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.8747489864589906; zscore -0.1576292082309076
+Jul 21, 2008 11:20:03 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.8033328373130197; zscore -0.2490361256257889
+Jul 21, 2008 11:20:03 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.8531419531485184; zscore -0.18511102653263564
+Jul 21, 2008 11:20:03 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.9776722111844292; zscore -0.027987386672768316
+Jul 21, 2008 11:20:03 PM jalgo.SumRankTest main
+INFO: Test video 'file:videos/noboss1.mpeg' for color RED at significant level 0.01
+'file:videos/noboss2.mpeg' pvalue= 0.984. Similar = true
+'file:videos/roll.mpg' pvalue= 0.839. Similar = true
+'file:videos/sage_beamingpoi.mpg' pvalue= 0.915. Similar = true
+'file:videos/faceburn.mpg' pvalue= 0.815. Similar = true
+'file:videos/aliensong.mpeg' pvalue= 0.902. Similar = true
+'file:videos/babythrowup.mpeg' pvalue= 0.962. Similar = true
+
+Test video 'file:videos/noboss1.mpeg' for color GREEN at significant level 0.01
+'file:videos/noboss2.mpeg' pvalue= 0.967. Similar = true
+'file:videos/roll.mpg' pvalue= 0.853. Similar = true
+'file:videos/sage_beamingpoi.mpg' pvalue= 0.892. Similar = true
+'file:videos/faceburn.mpg' pvalue= 0.815. Similar = true
+'file:videos/aliensong.mpeg' pvalue= 0.865. Similar = true
+'file:videos/babythrowup.mpeg' pvalue= 0.971. Similar = true
+
+Test video 'file:videos/noboss1.mpeg' for color BLUE at significant level 0.01
+'file:videos/noboss2.mpeg' pvalue= 0.969. Similar = true
+'file:videos/roll.mpg' pvalue= 0.87. Similar = true
+'file:videos/sage_beamingpoi.mpg' pvalue= 0.875. Similar = true
+'file:videos/faceburn.mpg' pvalue= 0.803. Similar = true
+'file:videos/aliensong.mpeg' pvalue= 0.853. Similar = true
+'file:videos/babythrowup.mpeg' pvalue= 0.978. Similar = true
+
+
+
+
+
+
+ 
+
+

@@ -1,0 +1,216 @@
+Now I am keeping writing 
+Send your comments after selecting
+Another customer sending comments
+Test video 'file:videos/c436v.mpg' for color RED at significant level 0.5
+'file:videos/c425v.mpg' pvalue= 0.296. Similar = false
+'file:videos/p346v.mpg' pvalue= 0.726. Similar = true
+'file:videos/c432v.mpg' pvalue= 0.184. Similar = false
+'file:videos/c430v.mpg' pvalue= 0.258. Similar = false
+
+Test video 'file:videos/c436v.mpg' for color GREEN at significant level 0.5
+'file:videos/c425v.mpg' pvalue= 0.813. Similar = true
+'file:videos/p346v.mpg' pvalue= 0.78. Similar = true
+'file:videos/c432v.mpg' pvalue= 0.716. Similar = true
+'file:videos/c430v.mpg' pvalue= 0.323. Similar = false
+
+Test video 'file:videos/c436v.mpg' for color BLUE at significant level 0.5
+'file:videos/c425v.mpg' pvalue= 0.26. Similar = false
+'file:videos/p346v.mpg' pvalue= 0.915. Similar = true
+'file:videos/c432v.mpg' pvalue= 0.367. Similar = false
+'file:videos/c430v.mpg' pvalue= 0.018. Similar = false
+Vid to test :'file:videos/c436v.mpg'
+
+Test video 'file:videos/c436v.mpg' for color RED at significant level 0.5
+'file:videos/c425v.mpg' pvalue= 0.296. Similar = false
+'file:videos/p346v.mpg' pvalue= 0.726. Similar = true
+'file:videos/c432v.mpg' pvalue= 0.184. Similar = false
+'file:videos/c430v.mpg' pvalue= 0.258. Similar = false
+
+Test video 'file:videos/c436v.mpg' for color GREEN at significant level 0.5
+'file:videos/c425v.mpg' pvalue= 0.813. Similar = true
+'file:videos/p346v.mpg' pvalue= 0.78. Similar = true
+'file:videos/c432v.mpg' pvalue= 0.716. Similar = true
+'file:videos/c430v.mpg' pvalue= 0.323. Similar = false
+
+Test video 'file:videos/c436v.mpg' for color BLUE at significant level 0.5
+'file:videos/c425v.mpg' pvalue= 0.26. Similar = false
+'file:videos/p346v.mpg' pvalue= 0.915. Similar = true
+'file:videos/c432v.mpg' pvalue= 0.367. Similar = false
+'file:videos/c430v.mpg' pvalue= 0.018. Similar = false
+Vid to test :'file:videos/c436v.mpg'
+
+Test video  'file:videos/fstupid_soccer_goal.mpeg'
+Two-sided t.test at significant level= 0.5
+Color component RED: 
+Video 'file:videos/fstupid_soccer_goal.mpeg'
+pvalue= 1.0	RED...Same videos.
+
+Video 'file:videos/funny-football_fight.mpeg'
+pvalue= 0.9337265930605058	RED...Same videos.
+
+Video 'file:videos/referee.mpg'
+pvalue= 0.7762983157607779	RED...Same videos.
+
+Video 'file:videos/polevault.mpg'
+pvalue= 0.9614215463898118	RED...Same videos.
+
+Video 'file:videos/tennisankleinjury.mpg'
+pvalue= 0.9572700272387638	RED...Same videos.
+
+Test video  'file:videos/fstupid_soccer_goal.mpeg'
+Two-sided t.test at significant level= 0.5
+Color component GREEN: 
+Video 'file:videos/fstupid_soccer_goal.mpeg'
+pvalue= 1.0	GREEN...Same videos.
+
+Video 'file:videos/funny-football_fight.mpeg'
+pvalue= 0.939653390701964	GREEN...Same videos.
+
+Video 'file:videos/referee.mpg'
+pvalue= 0.7177176949209747	GREEN...Same videos.
+
+Video 'file:videos/polevault.mpg'
+pvalue= 0.9787324003513093	GREEN...Same videos.
+
+Video 'file:videos/tennisankleinjury.mpg'
+pvalue= 0.9439250755479031	GREEN...Same videos.
+
+Test video  'file:videos/fstupid_soccer_goal.mpeg'
+Two-sided t.test at significant level= 0.5
+Color component BLUE: 
+Video 'file:videos/fstupid_soccer_goal.mpeg'
+pvalue= 1.0	BLUE...Same videos.
+
+Video 'file:videos/funny-football_fight.mpeg'
+pvalue= 0.9156161669457287	BLUE...Same videos.
+
+Video 'file:videos/referee.mpg'
+pvalue= 0.6631138756152255	BLUE...Same videos.
+
+Video 'file:videos/polevault.mpg'
+pvalue= 0.9738237584857546	BLUE...Same videos.
+
+Video 'file:videos/tennisankleinjury.mpg'
+pvalue= 0.9673492746724269	BLUE...Same videos.
+
+
+Test video: 'file:videos/fstupid_soccer_goal.mpeg'
+Student test at significant level= 0.5
+RGB video matrices with same ranks as test video matrices are: 
+
+'file:videos/fstupid_soccer_goal.mpeg'
+'file:videos/funny-football_fight.mpeg'
+'file:videos/referee.mpg'
+'file:videos/polevault.mpg'
+'file:videos/tennisankleinjury.mpg'
+Test video  'file:videos/fstupid_soccer_goal.mpeg'
+Two-sided t.test at significant level= 0.5
+Color component RED: 
+Video 'file:videos/fstupid_soccer_goal.mpeg'
+pvalue= 1.0	RED...Same videos.
+
+Video 'file:videos/funny-football_fight.mpeg'
+pvalue= 0.9337265930605058	RED...Same videos.
+
+Video 'file:videos/referee.mpg'
+pvalue= 0.7762983157607779	RED...Same videos.
+
+Video 'file:videos/polevault.mpg'
+pvalue= 0.9614215463898118	RED...Same videos.
+
+Video 'file:videos/tennisankleinjury.mpg'
+pvalue= 0.9572700272387638	RED...Same videos.
+
+Test video  'file:videos/fstupid_soccer_goal.mpeg'
+Two-sided t.test at significant level= 0.5
+Color component GREEN: 
+Video 'file:videos/fstupid_soccer_goal.mpeg'
+pvalue= 1.0	GREEN...Same videos.
+
+Video 'file:videos/funny-football_fight.mpeg'
+pvalue= 0.939653390701964	GREEN...Same videos.
+
+Video 'file:videos/referee.mpg'
+pvalue= 0.7177176949209747	GREEN...Same videos.
+
+Video 'file:videos/polevault.mpg'
+pvalue= 0.9787324003513093	GREEN...Same videos.
+
+Video 'file:videos/tennisankleinjury.mpg'
+pvalue= 0.9439250755479031	GREEN...Same videos.
+
+Test video  'file:videos/fstupid_soccer_goal.mpeg'
+Two-sided t.test at significant level= 0.5
+Color component BLUE: 
+Video 'file:videos/fstupid_soccer_goal.mpeg'
+pvalue= 1.0	BLUE...Same videos.
+
+Video 'file:videos/funny-football_fight.mpeg'
+pvalue= 0.9156161669457287	BLUE...Same videos.
+
+Video 'file:videos/referee.mpg'
+pvalue= 0.6631138756152255	BLUE...Same videos.
+
+Video 'file:videos/polevault.mpg'
+pvalue= 0.9738237584857546	BLUE...Same videos.
+
+Video 'file:videos/tennisankleinjury.mpg'
+pvalue= 0.9673492746724269	BLUE...Same videos.
+
+
+Test video: 'file:videos/fstupid_soccer_goal.mpeg'
+Student test at significant level= 0.5
+RGB video matrices with same ranks as test video matrices are: 
+
+'file:videos/fstupid_soccer_goal.mpeg'
+'file:videos/funny-football_fight.mpeg'
+'file:videos/referee.mpg'
+'file:videos/polevault.mpg'
+'file:videos/tennisankleinjury.mpg'
+est video  'file:videos/fstupid_soccer_goal.mpeg'
+Two-sided t.test at significant level= 0.5
+Color component RED: 
+Video 'file:videos/fstupid_soccer_goal.mpeg'
+pvalue= 1.0	RED...Same videos.
+
+Video 'file:videos/funny-football_fight.mpeg'
+pvalue= 0.5529734187533106	RED...Same videos.
+
+Video 'file:videos/referee.mpg'
+pvalue= 0.04126640516101543	RED...Different videos.
+
+Video 'file:videos/polevault.mpg'
+pvalue= 0.731331239543916	RED...Same videos.
+
+Video 'file:videos/tennisankleinjury.mpg'
+pvalue= 0.7034748425587507	RED...Same videos.
+
+Test video  'file:videos/fstupid_soccer_goal.mpeg'
+Two-sided t.test at significant level= 0.5
+Color component GREEN: 
+Video 'file:videos/fstupid_soccer_goal.mpeg'
+pvalue= 1.0	GREEN...Same videos.
+
+Video 'file:videos/funny-football_fight.mpeg'
+pvalue= 0.589915706503487	GREEN...Same videos.
+
+Video 'file:videos/ref
+Video analysis
+
+
+'
+p
+Test video: 'file:videos/noboss2.mpeg'
+Frobenius norms: 
+'file:videos/noboss2.mpeg'
+Red 0.999999999917338
+Green 0.9999999999204736
+Blue 0.999999999907343
+
+'file:videos/noboss1.mpeg'
+Red 0.48089081564531216
+Green 0.5740897492135841
+Blue 0.6479842318697755
+
+'file:videos/noboss2.mpeg'	Ranks 6; 6; 6
+'file:videos/noboss1.mpeg'	Ranks 6; 6; 6

@@ -1,0 +1,109 @@
+'file:videos/beardsley.mpeg'
+'file:videos/referee.mpg'
+'file:videos/soccerinjury.mpg'
+'file:videos/maradonaturn.mpeg'	
+'file:videos/fakeplaybehind.mpeg'
+=================================
+Student
+Jul 12, 2008 10:15:56 PM jalgo.Student <init>
+INFO: 
+
+Test video: 'file:videos/beardsley.mpeg'
+Student test at significant level= 0.1
+Jul 12, 2008 10:15:56 PM jalgo.Student main
+INFO: 
+Test video  'file:videos/beardsley.mpeg'
+Two-sided paired t.test at significant level= 0.1
+Color component RED: 
+Video 'file:videos/beardsley.mpeg'
+pvalue= 1.0	RED...Same videos.
+
+Video 'file:videos/referee.mpg'
+pvalue= 0.011009910154807652	RED...Different videos.
+
+Video 'file:videos/soccerinjury.mpg'
+pvalue= 0.565286635540277	RED...Same videos.
+
+Video 'file:videos/maradonaturn.mpeg'
+pvalue= 0.05353481693502604	RED...Different videos.
+
+Video 'file:videos/fakeplaybehind.mpeg'
+pvalue= 0.0020830532430182735	RED...Different videos.
+
+Jul 12, 2008 10:15:56 PM jalgo.Student main
+INFO: 
+Test video  'file:videos/beardsley.mpeg'
+Two-sided paired t.test at significant level= 0.1
+Color component GREEN: 
+Video 'file:videos/beardsley.mpeg'
+pvalue= 1.0	GREEN...Same videos.
+
+Video 'file:videos/referee.mpg'
+pvalue= 0.006166160795179403	GREEN...Different videos.
+
+Video 'file:videos/soccerinjury.mpg'
+pvalue= 0.4438512453235324	GREEN...Same videos.
+
+Video 'file:videos/maradonaturn.mpeg'
+pvalue= 0.009277183002520006	GREEN...Different videos.
+
+Video 'file:videos/fakeplaybehind.mpeg'
+pvalue= 0.0033089119010618617	GREEN...Different videos.
+
+Jul 12, 2008 10:15:56 PM jalgo.Student main
+INFO: 
+Test video  'file:videos/beardsley.mpeg'
+Two-sided paired t.test at significant level= 0.1
+Color component BLUE: 
+Video 'file:videos/beardsley.mpeg'
+pvalue= 1.0	BLUE...Same videos.
+
+Video 'file:videos/referee.mpg'
+pvalue= 1.1198212535861758E-4	BLUE...Different videos.
+
+Video 'file:videos/soccerinjury.mpg'
+pvalue= 0.04835702405740135	BLUE...Different videos.
+
+Video 'file:videos/maradonaturn.mpeg'
+pvalue= 0.7022738511575498	BLUE...Same videos.
+
+Video 'file:videos/fakeplaybehind.mpeg'
+pvalue= 0.9090159640703697	BLUE...Same videos.
+
+Jul 12, 2008 10:15:56 PM jalgo.Student main
+INFO: 
+ 'file:videos/soccerinjury.mpg'
+
+================
+Rank 
+Jul 12, 2008 10:19:51 PM jalgo.SignedRankTest substractVid
+INFO: Color RED and video 'file:videos/referee.mpg': pvalue is 0.0023768274303646968
+Jul 12, 2008 10:19:51 PM jalgo.SignedRankTest substractVid
+INFO: Color RED and video 'file:videos/soccerinjury.mpg': pvalue is 0.14728095620545384
+Jul 12, 2008 10:19:51 PM jalgo.SignedRankTest substractVid
+INFO: Color RED and video 'file:videos/maradonaturn.mpeg': pvalue is 0.19373371850113108
+Jul 12, 2008 10:19:51 PM jalgo.SignedRankTest substractVid
+INFO: Color RED and video 'file:videos/fakeplaybehind.mpeg': pvalue is 0.9180482120713378
+Jul 12, 2008 10:19:51 PM jalgo.SignedRankTest substractVid
+INFO: Color GREEN and video 'file:videos/referee.mpg': pvalue is 0.005813565400238854
+Jul 12, 2008 10:19:51 PM jalgo.SignedRankTest substractVid
+INFO: Color GREEN and video 'file:videos/soccerinjury.mpg': pvalue is 0.1421309667214364
+Jul 12, 2008 10:19:51 PM jalgo.SignedRankTest substractVid
+INFO: Color GREEN and video 'file:videos/maradonaturn.mpeg': pvalue is 0.5067830035588317
+Jul 12, 2008 10:19:51 PM jalgo.SignedRankTest substractVid
+INFO: Color GREEN and video 'file:videos/fakeplaybehind.mpeg': pvalue is 0.11408532557677105
+Jul 12, 2008 10:19:51 PM jalgo.SignedRankTest substractVid
+INFO: Color BLUE and video 'file:videos/referee.mpg': pvalue is 1.9310766916338245E-5
+Jul 12, 2008 10:19:51 PM jalgo.SignedRankTest substractVid
+INFO: Color BLUE and video 'file:videos/soccerinjury.mpg': pvalue is 0.8884307828254845
+Jul 12, 2008 10:19:51 PM jalgo.SignedRankTest substractVid
+INFO: Color BLUE and video 'file:videos/maradonaturn.mpeg': pvalue is 0.0026891851166264105
+Jul 12, 2008 10:19:51 PM jalgo.SignedRankTest substractVid
+INFO: Color BLUE and video 'file:videos/fakeplaybehind.mpeg': pvalue is 7.894269142115286E-4
+Jul 12, 2008 10:19:51 PM jalgo.SignedRankTest main
+INFO: Vid to test :'file:videos/beardsley.mpeg'
+Similar Videos: 
+'file:videos/soccerinjury.mpg'
+ 
+
+

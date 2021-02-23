@@ -1,0 +1,147 @@
+'file:videos/babythrowup.mpeg'
+'file:videos/bebekarate.mpeg'
+'file:videos/bicycle.mpg'
+'file:videos/bigbend.mpg'
+'file:videos/babythrowup.mpeg'
+Student
+Jul 21, 2008 11:10:55 PM jalgo.StudentTest calculatePValues
+INFO: 
+Two-sided t.test at significant level= 0.1
+Color component RED: 
+Video 'file:videos/babythrowup.mpeg'
+pvalue= 1.0	RED...Same videos.
+
+Video 'file:videos/bebekarate.mpeg'
+pvalue= 0.5161393735460234	RED...Same videos.
+
+Video 'file:videos/bicycle.mpg'
+pvalue= 0.9008266469763413	RED...Same videos.
+
+Video 'file:videos/bigbend.mpg'
+pvalue= 0.06595326070865493	RED...Different videos.
+
+Video 'file:videos/babythrowup.mpeg'
+pvalue= 1.0	RED...Same videos.
+
+Jul 21, 2008 11:10:55 PM jalgo.StudentTest calculatePValues
+INFO: 
+Two-sided t.test at significant level= 0.1
+Color component GREEN: 
+Video 'file:videos/babythrowup.mpeg'
+pvalue= 1.0	GREEN...Same videos.
+
+Video 'file:videos/bebekarate.mpeg'
+pvalue= 0.6853345053728299	GREEN...Same videos.
+
+Video 'file:videos/bicycle.mpg'
+pvalue= 0.9360192425511173	GREEN...Same videos.
+
+Video 'file:videos/bigbend.mpg'
+pvalue= 0.04338431271376415	GREEN...Different videos.
+
+Video 'file:videos/babythrowup.mpeg'
+pvalue= 1.0	GREEN...Same videos.
+
+Jul 21, 2008 11:10:55 PM jalgo.StudentTest calculatePValues
+INFO: 
+Two-sided t.test at significant level= 0.1
+Color component BLUE: 
+Video 'file:videos/babythrowup.mpeg'
+pvalue= 1.0	BLUE...Same videos.
+
+Video 'file:videos/bebekarate.mpeg'
+pvalue= 0.6332446103911997	BLUE...Same videos.
+
+Video 'file:videos/bicycle.mpg'
+pvalue= 0.9575041535500974	BLUE...Same videos.
+
+Video 'file:videos/bigbend.mpg'
+pvalue= 0.18965399659066828	BLUE...Same videos.
+
+Video 'file:videos/babythrowup.mpeg'
+pvalue= 1.0	BLUE...Same videos.
+
+Jul 21, 2008 11:10:55 PM jalgo.StudentTest main
+INFO: Test video  'file:videos/babythrowup.mpeg'
+Two-sided t.test at significant level= 0.1
+Color component RED: 
+Video 'file:videos/babythrowup.mpeg'
+pvalue= 1.0	RED...Same videos.
+
+Video 'file:videos/bebekarate.mpeg'
+pvalue= 0.5161393735460234	RED...Same videos.
+
+Video 'file:videos/bicycle.mpg'
+pvalue= 0.9008266469763413	RED...Same videos.
+
+Video 'file:videos/bigbend.mpg'
+pvalue= 0.06595326070865493	RED...Different videos.
+
+Video 'file:videos/babythrowup.mpeg'
+pvalue= 1.0	RED...Same videos.
+
+Test video  'file:videos/babythrowup.mpeg'
+Two-sided t.test at significant level= 0.1
+Color component GREEN: 
+Video 'file:videos/babythrowup.mpeg'
+pvalue= 1.0	GREEN...Same videos.
+
+Video 'file:videos/bebekarate.mpeg'
+pvalue= 0.6853345053728299	GREEN...Same videos.
+
+Video 'file:videos/bicycle.mpg'
+pvalue= 0.9360192425511173	GREEN...Same videos.
+
+Video 'file:videos/bigbend.mpg'
+pvalue= 0.04338431271376415	GREEN...Different videos.
+
+Video 'file:videos/babythrowup.mpeg'
+pvalue= 1.0	GREEN...Same videos.
+
+Test video  'file:videos/babythrowup.mpeg'
+Two-sided t.test at significant level= 0.1
+Color component BLUE: 
+Video 'file:videos/babythrowup.mpeg'
+pvalue= 1.0	BLUE...Same videos.
+
+Video 'file:videos/bebekarate.mpeg'
+pvalue= 0.6332446103911997	BLUE...Same videos.
+
+Video 'file:videos/bicycle.mpg'
+pvalue= 0.9575041535500974	BLUE...Same videos.
+
+Video 'file:videos/bigbend.mpg'
+pvalue= 0.18965399659066828	BLUE...Same videos.
+
+Video 'file:videos/babythrowup.mpeg'
+pvalue= 1.0	BLUE...Same videos.
+=================================================
+Rank Sum
+ul 21, 2008 11:21:19 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.9486262437207813; zscore -0.06443200868972258
+Jul 21, 2008 11:21:19 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.9610010084346262; zscore -0.04889746581538919
+Jul 21, 2008 11:21:19 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.5065252347370539; zscore -0.6642579415702053
+Jul 21, 2008 11:21:19 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.9999638864764613; zscore -4.526158961482896E-5
+Jul 21, 2008 11:21:19 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.870513643046599; zscore -0.16300608572471545
+Jul 21, 2008 11:21:19 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.9919703908273637; zscore -0.010063792567288236
+Jul 21, 2008 11:21:19 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.5431237580759565; zscore -0.6080960708012525
+Jul 21, 2008 11:21:19 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.9999628175143608; zscore -4.660133492903206E-5
+Jul 21, 2008 11:21:19 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.9334143848131962; zscore -0.0835497953344075
+Jul 21, 2008 11:21:19 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.9852970218930481; zscore -0.018428493350443245
+Jul 21, 2008 11:21:19 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.805179293492251; zscore -0.24664975687280777
+Jul 21, 2008 11:21:19 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.9999638864764613; zscore -4.526158961482896E-5
+Jul 21, 2008 11:21:19 PM jalgo.SumRankTest main
+INFO: Test video 'file:videos/babythrowup.mpeg' for color RED at significant level 0.01
+'file:videos/bebekarate.mpeg' pvalue= 0.871. Similar = true
+'file:videos/bicycle.mpg' pvalue= 0.992. Similar = true

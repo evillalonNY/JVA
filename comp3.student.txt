@@ -1,0 +1,171 @@
+'file:videos/t38x1.mpg'
+'file:videos/t38x2.mpg'
+'file:videos/t38x1.mpg'
+'file:videos/pianoplayer1.mpeg'
+'file:videos/sports.mpeg'
+'file:videos/c431v.mpg'
+Student test
+Jul 21, 2008 11:06:13 PM jalgo.StudentTest calculatePValues
+INFO: 
+Two-sided t.test at significant level= 0.1
+Color component RED: 
+Video 'file:videos/t38x1.mpg'
+pvalue= 1.0	RED...Same videos.
+
+Video 'file:videos/t38x2.mpg'
+pvalue= 0.9046982070384482	RED...Same videos.
+
+Video 'file:videos/pianoplayer1.mpeg'
+pvalue= 0.11759761600512375	RED...Same videos.
+
+Video 'file:videos/sports.mpeg'
+pvalue= 0.20307230655230057	RED...Same videos.
+
+Video 'file:videos/c431v.mpg'
+pvalue= 0.44090431411844166	RED...Same videos.
+
+Jul 21, 2008 11:06:13 PM jalgo.StudentTest calculatePValues
+INFO: 
+Two-sided t.test at significant level= 0.1
+Color component GREEN: 
+Video 'file:videos/t38x1.mpg'
+pvalue= 1.0	GREEN...Same videos.
+
+Video 'file:videos/t38x2.mpg'
+pvalue= 0.9284143127802837	GREEN...Same videos.
+
+Video 'file:videos/pianoplayer1.mpeg'
+pvalue= 0.22776395983204378	GREEN...Same videos.
+
+Video 'file:videos/sports.mpeg'
+pvalue= 0.23113290431174427	GREEN...Same videos.
+
+Video 'file:videos/c431v.mpg'
+pvalue= 0.39975693087757413	GREEN...Same videos.
+
+Jul 21, 2008 11:06:13 PM jalgo.StudentTest calculatePValues
+INFO: 
+Two-sided t.test at significant level= 0.1
+Color component BLUE: 
+Video 'file:videos/t38x1.mpg'
+pvalue= 1.0	BLUE...Same videos.
+
+Video 'file:videos/t38x2.mpg'
+pvalue= 0.8465697365462335	BLUE...Same videos.
+
+Video 'file:videos/pianoplayer1.mpeg'
+pvalue= 0.8996291963162149	BLUE...Same videos.
+
+Video 'file:videos/sports.mpeg'
+pvalue= 0.16734018990488653	BLUE...Same videos.
+
+Video 'file:videos/c431v.mpg'
+pvalue= 0.4224233013203278	BLUE...Same videos.
+
+Jul 21, 2008 11:06:13 PM jalgo.StudentTest main
+INFO: Test video  'file:videos/t38x1.mpg'
+Two-sided t.test at significant level= 0.1
+Color component RED: 
+Video 'file:videos/t38x1.mpg'
+pvalue= 1.0	RED...Same videos.
+
+Video 'file:videos/t38x2.mpg'
+pvalue= 0.9046982070384482	RED...Same videos.
+
+Video 'file:videos/pianoplayer1.mpeg'
+pvalue= 0.11759761600512375	RED...Same videos.
+
+Video 'file:videos/sports.mpeg'
+pvalue= 0.20307230655230057	RED...Same videos.
+
+Video 'file:videos/c431v.mpg'
+pvalue= 0.44090431411844166	RED...Same videos.
+
+Test video  'file:videos/t38x1.mpg'
+Two-sided t.test at significant level= 0.1
+Color component GREEN: 
+Video 'file:videos/t38x1.mpg'
+pvalue= 1.0	GREEN...Same videos.
+
+Video 'file:videos/t38x2.mpg'
+pvalue= 0.9284143127802837	GREEN...Same videos.
+
+Video 'file:videos/pianoplayer1.mpeg'
+pvalue= 0.22776395983204378	GREEN...Same videos.
+
+Video 'file:videos/sports.mpeg'
+pvalue= 0.23113290431174427	GREEN...Same videos.
+
+Video 'file:videos/c431v.mpg'
+pvalue= 0.39975693087757413	GREEN...Same videos.
+
+Test video  'file:videos/t38x1.mpg'
+Two-sided t.test at significant level= 0.1
+Color component BLUE: 
+Video 'file:videos/t38x1.mpg'
+pvalue= 1.0	BLUE...Same videos.
+
+Video 'file:videos/t38x2.mpg'
+pvalue= 0.8465697365462335	BLUE...Same videos.
+
+Video 'file:videos/pianoplayer1.mpeg'
+pvalue= 0.8996291963162149	BLUE...Same videos.
+
+Video 'file:videos/sports.mpeg'
+pvalue= 0.16734018990488653	BLUE...Same videos.
+
+Video 'file:videos/c431v.mpg'
+pvalue= 0.4224233013203278	BLUE...Same videos.
+
+==================================
+Rank Sum 
+Jul 21, 2008 11:22:22 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.9443447043568352; zscore -0.0698102304095244
+Jul 21, 2008 11:22:22 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.7661387302794613; zscore -0.29742936132181386
+Jul 21, 2008 11:22:22 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.7814600869454442; zscore -0.27741679504436517
+Jul 21, 2008 11:22:22 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.8592368060156689; zscore -0.17734576395991386
+Jul 21, 2008 11:22:22 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.9995928585777579; zscore -5.102761225271126E-4
+Jul 21, 2008 11:22:22 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.7133737973608438; zscore -0.3673287687414203
+Jul 21, 2008 11:22:22 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.7922609381607181; zscore -0.26337580386097864
+Jul 21, 2008 11:22:22 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.8709830019236309; zscore -0.16240999314376356
+Jul 21, 2008 11:22:22 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.9912532689302447; zscore -0.0109626212806594
+Jul 21, 2008 11:22:22 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.9272422558597906; zscore -0.09131505493327625
+Jul 21, 2008 11:22:22 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.821870705316225; zscore -0.22513956144602723
+Jul 21, 2008 11:22:22 PM jalgo.SumRankTest rankVid
+INFO: The pval is 0.909223979121935; zscore -0.11401742657382438
+Jul 21, 2008 11:22:22 PM jalgo.SumRankTest main
+INFO: Test video 'file:videos/t38x1.mpg' for color RED at significant level 0.01
+'file:videos/t38x2.mpg' pvalue= 1.0. Similar = true
+'file:videos/pianoplayer1.mpeg' pvalue= 0.713. Similar = true
+'file:videos/sports.mpeg' pvalue= 0.792. Similar = true
+'file:videos/c431v.mpg' pvalue= 0.871. Similar = true
+
+Test video 'file:videos/t38x1.mpg' for color GREEN at significant level 0.01
+'file:videos/t38x2.mpg' pvalue= 0.944. Similar = true
+'file:videos/pianoplayer1.mpeg' pvalue= 0.766. Similar = true
+'file:videos/sports.mpeg' pvalue= 0.781. Similar = true
+'file:videos/c431v.mpg' pvalue= 0.859. Similar = true
+
+Test video 'file:videos/t38x1.mpg' for color BLUE at significant level 0.01
+'file:videos/t38x2.mpg' pvalue= 0.991. Similar = true
+'file:videos/pianoplayer1.mpeg' pvalue= 0.927. Similar = true
+'file:videos/sports.mpeg' pvalue= 0.822. Similar = true
+'file:videos/c431v.mpg' pvalue= 0.909. Similar = true
+
+
+
+
+
+ 
+
+

@@ -1,0 +1,114 @@
+'file:videos/babythrowup.mpeg'
+'file:videos/bebekarate.mpeg'
+'file:videos/bicycle.mpg'
+'file:videos/bigbend.mpg'
+'file:videos/babythrowup.mpeg'
+===================================
+Student
+Jul 12, 2008 10:41:25 PM jalgo.Student <init>
+INFO: 
+
+Test video: 'file:videos/babythrowup.mpeg'
+Student test at significant level= 0.1
+Jul 12, 2008 10:41:25 PM jalgo.Student main
+INFO: 
+Test video  'file:videos/babythrowup.mpeg'
+Two-sided paired t.test at significant level= 0.1
+Color component RED: 
+Video 'file:videos/babythrowup.mpeg'
+pvalue= 1.0	RED...Same videos.
+
+Video 'file:videos/bebekarate.mpeg'
+pvalue= 0.02179679665906184	RED...Different videos.
+
+Video 'file:videos/bicycle.mpg'
+pvalue= 0.5545928002656852	RED...Same videos.
+
+Video 'file:videos/bigbend.mpg'
+pvalue= 2.6272995466036322E-5	RED...Different videos.
+
+Video 'file:videos/babythrowup.mpeg'
+pvalue= 1.0	RED...Same videos.
+
+Jul 12, 2008 10:41:25 PM jalgo.Student main
+INFO: 
+Test video  'file:videos/babythrowup.mpeg'
+Two-sided paired t.test at significant level= 0.1
+Color component GREEN: 
+Video 'file:videos/babythrowup.mpeg'
+pvalue= 1.0	GREEN...Same videos.
+
+Video 'file:videos/bebekarate.mpeg'
+pvalue= 0.1749297784345565	GREEN...Same videos.
+
+Video 'file:videos/bicycle.mpg'
+pvalue= 0.7528207246257563	GREEN...Same videos.
+
+Video 'file:videos/bigbend.mpg'
+pvalue= 6.779983876651383E-6	GREEN...Different videos.
+
+Video 'file:videos/babythrowup.mpeg'
+pvalue= 1.0	GREEN...Same videos.
+
+Jul 12, 2008 10:41:25 PM jalgo.Student main
+INFO: 
+Test video  'file:videos/babythrowup.mpeg'
+Two-sided paired t.test at significant level= 0.1
+Color component BLUE: 
+Video 'file:videos/babythrowup.mpeg'
+pvalue= 1.0	BLUE...Same videos.
+
+Video 'file:videos/bebekarate.mpeg'
+pvalue= 0.04872375494403573	BLUE...Different videos.
+
+Video 'file:videos/bicycle.mpg'
+pvalue= 0.8114067617234012	BLUE...Same videos.
+
+Video 'file:videos/bigbend.mpg'
+pvalue= 1.142121448118142E-6	BLUE...Different videos.
+
+Video 'file:videos/babythrowup.mpeg'
+pvalue= 1.0	BLUE...Same videos.
+
+Jul 12, 2008 10:41:25 PM jalgo.Student main
+INFO: 
+
+
+
+'file:videos/bicycle.mpg'
+
+
+
+
+
+=========================
+Signed 
+Jul 12, 2008 10:39:45 PM jalgo.SignedRankTest substractVid
+INFO: Color RED and video 'file:videos/bebekarate.mpeg': pvalue is 0.002528597994247436
+Jul 12, 2008 10:39:45 PM jalgo.SignedRankTest substractVid
+INFO: Color RED and video 'file:videos/bicycle.mpg': pvalue is 0.10179976037128377
+Jul 12, 2008 10:39:45 PM jalgo.SignedRankTest substractVid
+INFO: Color RED and video 'file:videos/bigbend.mpg': pvalue is 7.58047053379745E-7
+Jul 12, 2008 10:39:45 PM jalgo.SignedRankTest substractVid
+INFO: Color RED and video 'file:videos/babythrowup.mpeg': pvalue is 0.0
+Jul 12, 2008 10:39:45 PM jalgo.SignedRankTest substractVid
+INFO: Color GREEN and video 'file:videos/bebekarate.mpeg': pvalue is 0.013225666096001728
+Jul 12, 2008 10:39:45 PM jalgo.SignedRankTest substractVid
+INFO: Color GREEN and video 'file:videos/bicycle.mpg': pvalue is 0.4053276928865769
+Jul 12, 2008 10:39:45 PM jalgo.SignedRankTest substractVid
+INFO: Color GREEN and video 'file:videos/bigbend.mpg': pvalue is 2.6873515126290903E-6
+Jul 12, 2008 10:39:45 PM jalgo.SignedRankTest substractVid
+INFO: Color GREEN and video 'file:videos/babythrowup.mpeg': pvalue is 0.0
+Jul 12, 2008 10:39:45 PM jalgo.SignedRankTest substractVid
+INFO: Color BLUE and video 'file:videos/bebekarate.mpeg': pvalue is 0.12750925832122537
+Jul 12, 2008 10:39:45 PM jalgo.SignedRankTest substractVid
+INFO: Color BLUE and video 'file:videos/bicycle.mpg': pvalue is 0.1421309667214367
+Jul 12, 2008 10:39:45 PM jalgo.SignedRankTest substractVid
+INFO: Color BLUE and video 'file:videos/bigbend.mpg': pvalue is 2.216981010062902E-6
+Jul 12, 2008 10:39:45 PM jalgo.SignedRankTest substractVid
+INFO: Color BLUE and video 'file:videos/babythrowup.mpeg': pvalue is 0.0
+Jul 12, 2008 10:39:45 PM jalgo.SignedRankTest main
+INFO: Vid to test :'file:videos/babythrowup.mpeg'
+Similar Videos: 
+'file:videos/bicycle.mpg'
+ 

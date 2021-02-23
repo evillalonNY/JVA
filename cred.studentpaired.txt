@@ -1,0 +1,245 @@
+'file:videos/noboss1.mpeg'
+'file:videos/noboss2.mpeg'
+'file:videos/roll.mpg'	
+'file:videos/sage_beamingpoi.mpg'
+'file:videos/faceburn.mpg'
+'file:videos/aliensong.mpeg'
+'file:videos/babythrowup.mpeg'
+====================================
+Student 
+Jul 12, 2008 10:24:01 PM jalgo.Student <init>
+INFO: 
+
+Test video: 'file:videos/noboss1.mpeg'
+Student test at significant level= 0.1
+Jul 12, 2008 10:24:01 PM jalgo.Student main
+INFO: 
+Test video  'file:videos/noboss1.mpeg'
+Two-sided paired t.test at significant level= 0.1
+Color component RED: 
+Video 'file:videos/noboss1.mpeg'
+pvalue= 1.0	RED...Same videos.
+
+Video 'file:videos/noboss2.mpeg'
+pvalue= 0.9983707368880106	RED...Same videos.
+
+Video 'file:videos/roll.mpg'
+pvalue= 7.820539631148582E-6	RED...Different videos.
+
+Video 'file:videos/sage_beamingpoi.mpg'
+pvalue= 0.004818317617663466	RED...Different videos.
+
+Video 'file:videos/faceburn.mpg'
+pvalue= 6.253209470537131E-7	RED...Different videos.
+
+Video 'file:videos/aliensong.mpeg'
+pvalue= 0.0027755252474044433	RED...Different videos.
+
+Video 'file:videos/babythrowup.mpeg'
+pvalue= 0.45995332384171883	RED...Same videos.
+
+Jul 12, 2008 10:24:01 PM jalgo.Student main
+INFO: 
+Test video  'file:videos/noboss1.mpeg'
+Two-sided paired t.test at significant level= 0.1
+Color component GREEN: 
+Video 'file:videos/noboss1.mpeg'
+pvalue= 1.0	GREEN...Same videos.
+
+Video 'file:videos/noboss2.mpeg'
+pvalue= 0.8403235720597646	GREEN...Same videos.
+
+Video 'file:videos/roll.mpg'
+pvalue= 2.7016840750562188E-5	GREEN...Different videos.
+
+Video 'file:videos/sage_beamingpoi.mpg'
+pvalue= 2.1820246500048752E-4	GREEN...Different videos.
+
+Video 'file:videos/faceburn.mpg'
+pvalue= 4.2568272008392143E-7	GREEN...Different videos.
+
+Video 'file:videos/aliensong.mpeg'
+pvalue= 0.00393057076336605	GREEN...Different videos.
+
+Video 'file:videos/babythrowup.mpeg'
+pvalue= 0.23374022628121838	GREEN...Same videos.
+
+Jul 12, 2008 10:24:01 PM jalgo.Student main
+INFO: 
+Test video  'file:videos/noboss1.mpeg'
+Two-sided paired t.test at significant level= 0.1
+Color component BLUE: 
+Video 'file:videos/noboss1.mpeg'
+pvalue= 1.0	BLUE...Same videos.
+
+Video 'file:videos/noboss2.mpeg'
+pvalue= 0.8219159688133657	BLUE...Same videos.
+
+Video 'file:videos/roll.mpg'
+pvalue= 3.255620931602033E-5	BLUE...Different videos.
+
+Video 'file:videos/sage_beamingpoi.mpg'
+pvalue= 2.453462618233919E-5	BLUE...Different videos.
+
+Video 'file:videos/faceburn.mpg'
+pvalue= 7.86145479695356E-7	BLUE...Different videos.
+
+Video 'file:videos/aliensong.mpeg'
+pvalue= 2.1885901773045005E-5	BLUE...Different videos.
+
+Video 'file:videos/babythrowup.mpeg'
+pvalue= 0.11554658668097428	BLUE...Same videos.
+
+Jul 12, 2008 10:24:01 PM jalgo.Student main
+INFO: 
+'file:videos/noboss2.mpeg'
+'file:videos/babythrowup.mpeg'
+No rank calculations performed
+
+=======================================
+Rank
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color RED and video 'file:videos/noboss2.mpeg': pvalue is 0.3355298456013034
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color RED and video 'file:videos/roll.mpg': pvalue is 3.08034826847824E-6
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color RED and video 'file:videos/sage_beamingpoi.mpg': pvalue is 1.2171637646569355E-4
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color RED and video 'file:videos/faceburn.mpg': pvalue is 1.2199117869944397E-6
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color RED and video 'file:videos/aliensong.mpeg': pvalue is 7.894269142115286E-4
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color RED and video 'file:videos/babythrowup.mpeg': pvalue is 0.07721456421254644
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color GREEN and video 'file:videos/noboss2.mpeg': pvalue is 0.6876305654752167
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color GREEN and video 'file:videos/roll.mpg': pvalue is 5.283706353792001E-6
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color GREEN and video 'file:videos/sage_beamingpoi.mpg': pvalue is 8.954044512018318E-6
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color GREEN and video 'file:videos/faceburn.mpg': pvalue is 1.4721588763920994E-6
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color GREEN and video 'file:videos/aliensong.mpeg': pvalue is 5.283706353792001E-6
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color GREEN and video 'file:videos/babythrowup.mpeg': pvalue is 0.35463428346808124
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color BLUE and video 'file:videos/noboss2.mpeg': pvalue is 0.8884307828254845
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color BLUE and video 'file:videos/roll.mpg': pvalue is 9.765370200518793E-6
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color BLUE and video 'file:videos/sage_beamingpoi.mpg': pvalue is 5.283706353792001E-6Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color RED and video 'file:videos/noboss2.mpeg': pvalue is 0.3355298456013034
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color RED and video 'file:videos/roll.mpg': pvalue is 3.08034826847824E-6
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color RED and video 'file:videos/sage_beamingpoi.mpg': pvalue is 1.2171637646569355E-4
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color RED and video 'file:videos/faceburn.mpg': pvalue is 1.2199117869944397E-6
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color RED and video 'file:videos/aliensong.mpeg': pvalue is 7.894269142115286E-4
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color RED and video 'file:videos/babythrowup.mpeg': pvalue is 0.07721456421254644
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color GREEN and video 'file:videos/noboss2.mpeg': pvalue is 0.6876305654752167
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color GREEN and video 'file:videos/roll.mpg': pvalue is 5.283706353792001E-6
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color GREEN and video 'file:videos/sage_beamingpoi.mpg': pvalue is 8.954044512018318E-6
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color GREEN and video 'file:videos/faceburn.mpg': pvalue is 1.4721588763920994E-6
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color GREEN and video 'file:videos/aliensong.mpeg': pvalue is 5.283706353792001E-6
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color GREEN and video 'file:videos/babythrowup.mpeg': pvalue is 0.35463428346808124
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color BLUE and video 'file:videos/noboss2.mpeg': pvalue is 0.8884307828254845
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color BLUE and video 'file:videos/roll.mpg': pvalue is 9.765370200518793E-6
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color BLUE and video 'file:videos/sage_beamingpoi.mpg': pvalue is 5.283706353792001E-6
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color BLUE and video 'file:videos/faceburn.mpg': pvalue is 1.7741677271456217E-6
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color BLUE and video 'file:videos/aliensong.mpeg': pvalue is 3.08034826847824E-6
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color BLUE and video 'file:videos/babythrowup.mpeg': pvalue is 0.9925009253993904
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest main
+INFO: Vid to test :'file:videos/noboss1.mpeg'
+Similar Videos: 
+'file:videos/noboss2.mpeg'
+ 
+
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color BLUE and video 'file:videos/faceburn.mpg': pvalue is 1.7741677271456217E-6
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color BLUE and video 'file:videos/aliensong.mpeg': pvalue is 3.08034826847824E-6
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest substractVid
+INFO: Color BLUE and video 'file:videos/babythrowup.mpeg': pvalue is 0.9925009253993904
+Jul 12, 2008 10:26:30 PM jalgo.SignedRankTest main
+INFO: Vid to test :'file:videos/noboss1.mpeg'
+Similar Videos: 
+'file:videos/noboss2.mpeg'
+ 
+ 'file:videos/babythrowup.mpeg': except RED
+
+
+
+ 
+
+===============================
+Anova1 
+Jul 12, 2008 11:44:35 PM jalgo.Anova1 <init>
+INFO: 
+'file:videos/noboss1.mpeg'
+'file:videos/noboss2.mpeg'
+'file:videos/babythrowup.mpeg'
+
+Test video: 'file:videos/noboss1.mpeg'
+Student test at significant level= 0.1
+Jul 12, 2008 11:44:35 PM jalgo.Anova1 main
+INFO: 
+Test video  'file:videos/noboss1.mpeg'
+anova test at significant level= 0.1
+Color component RED: 
+Mean frames pvalue= 0.8818398456356473
+Jul 12, 2008 11:44:35 PM jalgo.Anova1 main
+INFO: 
+Test video  'file:videos/noboss1.mpeg'
+anova test at significant level= 0.1
+Color component GREEN: 
+Mean frames pvalue= 0.67421525485055
+Jul 12, 2008 11:44:35 PM jalgo.Anova1 main
+INFO: 
+Test video  'file:videos/noboss1.mpeg'
+anova test at significant level= 0.1
+Color component BLUE: 
+Mean frames pvalue= 0.43611211738364486
+========================================
+Adding 'file:videos/roll.mpg'to 
+'file:videos/noboss1.mpeg'
+'file:videos/noboss2.mpeg'
+'file:videos/babythrowup.mpeg'
+
+Jul 12, 2008 11:47:54 PM jalgo.Anova1 <init>
+INFO: 
+
+Test video: 'file:videos/noboss1.mpeg'
+Student test at significant level= 0.1
+Jul 12, 2008 11:47:54 PM jalgo.Anova1 main
+INFO: 
+Test video  'file:videos/noboss1.mpeg'
+anova test at significant level= 0.1
+Color component RED: 
+Mean frames pvalue= 9.017327463611835E-7
+Jul 12, 2008 11:47:54 PM jalgo.Anova1 main
+INFO: 
+Test video  'file:videos/noboss1.mpeg'
+anova test at significant level= 0.1
+Color component GREEN: 
+Mean frames pvalue= 5.783273842929759E-6
+Jul 12, 2008 11:47:54 PM jalgo.Anova1 main
+INFO: 
+Test video  'file:videos/noboss1.mpeg'
+anova test at significant level= 0.1
+Color component BLUE: 
+Mean frames pvalue= 3.3106102324431674E-5

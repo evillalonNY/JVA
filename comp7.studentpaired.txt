@@ -1,0 +1,75 @@
+'file:videos/fordka-cat.mpg'
+'file:videos/fordka-bird.mpg'
+'file:videos/frens2.mpeg'
+========================
+Student
+Jul 12, 2008 11:01:26 PM jalgo.Student <init>
+INFO: 
+
+Test video: 'file:videos/fordka-cat.mpg'
+Student test at significant level= 0.1
+Jul 12, 2008 11:01:26 PM jalgo.Student main
+INFO: 
+Test video  'file:videos/fordka-cat.mpg'
+Two-sided paired t.test at significant level= 0.1
+Color component RED: 
+Video 'file:videos/fordka-cat.mpg'
+pvalue= 1.0	RED...Same videos.
+
+Video 'file:videos/fordka-bird.mpg'
+pvalue= 0.24577275392364029	RED...Same videos.
+
+Video 'file:videos/frens2.mpeg'
+pvalue= 5.6075636343546054E-5	RED...Different videos.
+
+Jul 12, 2008 11:01:26 PM jalgo.Student main
+INFO: 
+Test video  'file:videos/fordka-cat.mpg'
+Two-sided paired t.test at significant level= 0.1
+Color component GREEN: 
+Video 'file:videos/fordka-cat.mpg'
+pvalue= 1.0	GREEN...Same videos.
+
+Video 'file:videos/fordka-bird.mpg'
+pvalue= 0.26670227356476106	GREEN...Same videos.
+
+Video 'file:videos/frens2.mpeg'
+pvalue= 1.0157491648456633E-5	GREEN...Different videos.
+
+Jul 12, 2008 11:01:26 PM jalgo.Student main
+INFO: 
+Test video  'file:videos/fordka-cat.mpg'
+Two-sided paired t.test at significant level= 0.1
+Color component BLUE: 
+Video 'file:videos/fordka-cat.mpg'
+pvalue= 1.0	BLUE...Same videos.
+
+Video 'file:videos/fordka-bird.mpg'
+pvalue= 0.24406729060495247	BLUE...Same videos.
+
+Video 'file:videos/frens2.mpeg'
+pvalue= 7.475101151309836E-7	BLUE...Different videos.
+
+Jul 12, 2008 11:01:26 PM jalgo.Student main
+INFO: 
+ 'file:videos/fordka-bird.mpg'
+No rank calculations performed
+=========================
+Signed Rank Test
+Jul 12, 2008 11:03:30 PM jalgo.SignedRankTest substractVid
+INFO: Color RED and video 'file:videos/fordka-bird.mpg': pvalue is 5.606502117361755E-4
+Jul 12, 2008 11:03:30 PM jalgo.SignedRankTest substractVid
+INFO: Color RED and video 'file:videos/frens2.mpeg': pvalue is 1.5275527751844109E-4
+Jul 12, 2008 11:03:30 PM jalgo.SignedRankTest substractVid
+INFO: Color GREEN and video 'file:videos/fordka-bird.mpg': pvalue is 0.08039775675305588
+Jul 12, 2008 11:03:30 PM jalgo.SignedRankTest substractVid
+INFO: Color GREEN and video 'file:videos/frens2.mpeg': pvalue is 2.0582970008861367E-4
+Jul 12, 2008 11:03:30 PM jalgo.SignedRankTest substractVid
+INFO: Color BLUE and video 'file:videos/fordka-bird.mpg': pvalue is 0.006891977517062826
+Jul 12, 2008 11:03:30 PM jalgo.SignedRankTest substractVid
+INFO: Color BLUE and video 'file:videos/frens2.mpeg': pvalue is 1.1603534916428037E-5
+Jul 12, 2008 11:03:30 PM jalgo.SignedRankTest main
+INFO: Vid to test :'file:videos/fordka-cat.mpg'
+Similar Videos: 
+ 
+

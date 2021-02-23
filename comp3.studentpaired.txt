@@ -1,0 +1,145 @@
+'file:videos/t38x1.mpg'
+'file:videos/t38x2.mpg'
+'file:videos/pianoplayer1.mpeg'
+'file:videos/sports.mpeg'
+'file:videos/c431v.mpg'
+==============================
+Jul 12, 2008 10:43:36 PM jalgo.Student <init>
+INFO: 
+
+Test video: 'file:videos/t38x1.mpg'
+Student test at significant level= 0.1
+Jul 12, 2008 10:43:36 PM jalgo.Student main
+INFO: 
+Test video  'file:videos/t38x1.mpg'
+Two-sided paired t.test at significant level= 0.1
+Color component RED: 
+Video 'file:videos/t38x1.mpg'
+pvalue= 1.0	RED...Same videos.
+
+Video 'file:videos/t38x2.mpg'
+pvalue= 0.3554009084400316	RED...Same videos.
+
+Video 'file:videos/pianoplayer1.mpeg'
+pvalue= 3.900607143503265E-6	RED...Different videos.
+
+Video 'file:videos/sports.mpeg'
+pvalue= 1.3870222704048807E-4	RED...Different videos.
+
+Video 'file:videos/c431v.mpg'
+pvalue= 0.00953318330625int c = mat.getRowDimension();
+			if(c > nobins ) c= nobins;7742	RED...Different videos.
+
+Jul 12, 2008 10:43:36 PM jalgo.Student main
+INFO: 
+Test video  'file:videos/t38x1.mpg'
+Two-sided paired t.test at significant level= 0.1
+Color component GREEN: 
+Video 'file:videos/t38x1.mpg'
+pvalue= 1.0	GREEN...Same videos.
+
+Video 'file:videos/t38x2.mpg'
+pvalue= 0.45331485824823714	GREEN...Same videos.
+
+Video 'file:videos/pianoplayer1.mpeg'
+pvalue= 1.381340921713381E-5	GREEN...Different videos.
+
+Video 'file:videos/sports.mpeg'
+pvalue= 0.0017211943462982493	GREEN...Different videos.
+
+Video 'file:videos/c431v.mpg'
+pvalue= 0.006135438031383389	GREEN...Different videos.
+
+Jul 12, 2008 10:43:36 PMint c = mat.getRowDimension();
+			if(c > nobins ) c= nobins; jalgo.Student main
+INFO: 
+Test video  'file:videos/t38x1.mpg'
+Two-sided paired t.test at significant level= 0.1
+Color component BLUE: 
+Video 'file:videos/t38x1.mpg'
+pvalue= 1.0	BLUE...Same videos.
+
+Video 'file:videos/t38x2.mpg'
+pvalue= 0.20204551053802433	BLUE...Same videos.
+
+Video 'file:videos/pianoplayer1.mpeg'
+pvalue= 0.7434392833480055	BLUE...Same videos.
+
+Video 'file:videos/sports.mpeg'
+pvalue= 1.877191976367154E-4	BLUE...Different videos.
+
+Video 'file:videos/c431v.mpg'
+pvalue= 0.005373062334625978	BLUE...Different videos.
+
+Jul 12, 2008 10:43:36 PM jalgo.Student main
+INFO: 
+Similar
+'file:videos/t38x2.mpg'
+
+=============================
+Signed Rank Test
+Jul 12, 2008 10:45:56 PM jalgo.SignedRankTest substractVid
+INFO: Color RED and video 'file:videos/t38x2.mpg': pvalue is 0.5927747480445251
+Jul 12, 2008 10:45:57 PM jalgo.SignedRankTest substractVid
+INFO: Color RED and video 'file:videos/pianoplayer1.mpeg': pvalue is 8.342889487944817E-7
+Jul 12, 2008 10:45:57 PM jalgo.SignedRankTest substractVid
+INFO: Color RED and video 'file:videos/sports.mpeg': pvalue is 6.545396317899152E-5
+Jul 12, 2008 10:45:57 PM jalgo.SignedRankTest substractVid
+INFO: Color RED and video 'file:videos/c431v.mpg': pvalue is 0.2206438898755375
+Jul 12, 2008 10:45:57 PM jalgo.SignedRankTest substractVid
+INFO: Color RED and video 'file:videos/pinata.mpeg': pvalue is 8.342889487944817E-7
+Jul 12, 2008 10:45:57 PM jalgo.SignedRankTest substractVid
+INFO: Color RED and video 'file:videos/pole.mpeg': pvalue is 4.7616485278111016E-5
+Jul 12, 2008 10:45:57 PM jalgo.SignedRankTest substractVid
+INFO: Color RED and video 'file:videos/noboss1.mpeg': pvalue is 5.606502117361755E-4
+Jul 12, 2008 10:45:57 PM jalgo.SignedRankTest substractVid
+INFO: Color RED and video 'file:videos/noboss2.mpeg': pvalue is 1.631719035413845E-5
+Jul 12, 2008 10:45:57 PM jalgo.SignedRankTest substractVid
+INFO: Color GREEN and video 'file:videos/t38x2.mpg': pvalue is 0.883115196410944
+Jul 12, 2008 10:45:57 PM jalgo.SignedRankTest substractVid
+INFO: Color GREEN and video 'file:videos/pianoplayer1.mpeg': pvalue is 8.207368957265074E-6
+Jul 12, 2008 10:45:57 PM jalgo.SignedRankTest substractVid
+INFO: Color GREEN and video 'file:videos/sports.mpeg': pvalue is 4.547831106149143E-4
+Jul 12, 2008 10:45:57 PM jalgo.SignedRankTest substractVid
+INFO: Color GREEN and video 'file:videos/c431v.mpg': pvalue is 0.3262309208879033
+Jul 12, 2008 10:45:57 PM jalgo.SignedRankTest substractVid
+INFO: Color GREEN and video 'file:videos/c450v.mpg': pvalue is 0.38455103984151084
+Jul 12, 2008 10:45:57 PM jalgo.SignedRankTest substractVid
+INFO: Color GREEN and video 'file:videos/pinata.mpeg': pvalue is 6.307869637112977E-6
+Jul 12, 2008 10:45:57 PM jalgo.SignedRankTest substractVid
+INFO: Color GREEN and video 'file:videos/pole.mpeg': pvalue is 0.0018495031413155842
+Jul 12, 2008 10:45:57 PM jalgo.SignedRankTest substractVid
+INFO: Color GREEN and video 'file:videos/noboss1.mpeg': pvalue is 7.081391824300031E-5
+Jul 12, 2008 10:45:57 PM jalgo.SignedRankTest substractVid
+INFO: Color GREEN and video 'file:videos/noboss2.mpeg': pvalue is 1.9466815287045894E-6
+Jul 12, 2008 10:45:57 PM jalgo.SignedRankTest substractVid
+INFO: Color BLUE and video 'file:videos/t38x2.mpg': pvalue is 0.40490477828021165
+Jul 12, 2008 10:45:57 PM jalgo.SignedRankTest substractVid
+INFO: Color BLUE and video 'file:videos/pianoplayer1.mpeg': pvalue is 0.4053276928865769
+Jul 12, 2008 10:45:57 PM jalgo.SignedRankTest substractVid
+INFO: Color BLUE and video 'file:videos/sports.mpeg': pvalue is 6.545396317899152E-5
+Jul 12, 2008 10:45:57 PM jalgo.SignedRankTest substractVid
+INFO: Color BLUE and video 'file:videos/c431v.mpg': pvalue is 0.18121928063797343
+Jul 12, 2008 10:45:57 PM jalgo.SignedRankTest substractVid
+INFO: Color BLUE and video 'file:videos/c450v.mpg': pvalue is 0.5433473763595578
+Jul 12, 2008 10:45:57 PM jalgo.SignedRankTest substractVid
+INFO: Color BLUE and video 'file:videos/pinata.mpeg': pvalue is 6.888675497303596E-6
+Jul 12, 2008 10:45:57 PM jalgo.SignedRankTest substractVid
+INFO: Color BLUE and video 'file:videos/pole.mpeg': pvalue is 3.187568549447838E-4
+Jul 12, 2008 10:45:57 PM jalgo.SignedRankTest substractVid
+INFO: Color BLUE and video 'file:videos/noboss1.mpeg': pvalue is 6.888675497303596E-6
+Jul 12, 2008 10:45:57 PM jalgo.SignedRankTest substractVid
+INFO: Color BLUE and video 'file:videos/noboss2.mpeg': pvalue is 1.631719035413845E-5
+Jul 12, 2008 10:45:57 PM jalgo.SignedRankTest main
+INFO: Vid to test :'file:videos/t38x1.mpg'
+Similar Videos: 
+'file:videos/t38x2.mpg'
+'file:videos/c431v.mpg'
+'file:videos/c450v.mpg'
+ 
+
+
+
+ 
+
+

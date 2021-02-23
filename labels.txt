@@ -1,0 +1,3 @@
+dolls	file:videos/elvis.mov	file:videos/kitten.mpeg
+sun	file:videos/sunny.mpg	file:videos/dogs.mpeg
+wet	file:videos/road.mov
